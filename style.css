@@ -54,3 +54,11 @@ form p {
     font-size: 14px;
     color: gray;
 }
+.message {
+  font-size: 14px;
+  font-weight: bold;
+  color: red;
+  margin: 2px 5px;
+  text-align: left;
+  
+}
