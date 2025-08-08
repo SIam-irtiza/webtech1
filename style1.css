@@ -1,0 +1,64 @@
+.center{
+    text-align: center;
+    color: red;
+}
+form{
+    width: 811px;
+    margin: 0 auto;
+   
+     
+}
+input[type=text] {
+  width: 97%;
+    padding: 12px 20px;
+    margin: 9px 13px;
+    border-radius:5px;
+   border: 2px solid gray
+  
+
+}
+input[type=text]:focus {
+  background-color: lightblue;
+}
+select,
+textarea{
+
+     width: 102%;
+    padding: 12px 20px;
+    margin: 9px 13px;
+    border-radius:5px;
+   border: 2px solid gray
+}
+label {
+    display: block;
+    margin: 7px 0 6px;
+    font-weight: bold;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 10px 59px;
+    margin: 1px auto;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+  
+}
+button:hover {
+    background-color: #334e61;
+}
+form p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+.message {
+  font-size: 14px;
+  font-weight: bold;
+  color: red;
+  margin: 2px 5px;
+  text-align: left;
+  
+}
